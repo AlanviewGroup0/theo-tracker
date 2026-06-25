@@ -86,7 +86,8 @@
 
 <script>
 const fmt=n=>n>=1e6?(n/1e6).toFixed(1)+'M':n>=1e3?(n/1e3).toFixed(1)+'K':(''+(n||0));
-const esc=s=>(s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const dec=s=>(s||'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'");
+const esc=s=>dec(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 const linkify=s=>esc(s).replace(/https?:\/\/[^\s]+/g,u=>`<a href="${u}" target="_blank" rel="noopener">${u.replace(/^https?:\/\//,'').slice(0,28)}…</a>`).replace(/#(\w+)/g,'<span style="color:#b7a6ff">#$1</span>').replace(/@(\w+)/g,'<a href="https://x.com/$1" target="_blank" rel="noopener">@$1</a>');
 const av=u=>u?u.replace('_normal','_x96'):'';
 let DATA=null, FILTER='All';
@@ -134,7 +135,7 @@ fetch('./data.json?cb='+Date.now()).then(r=>r.json()).then(d=>{
   document.getElementById('pillbar').innerHTML=
     `<span class="pill">📅 <b>${esc(m.dayLabel)}</b></span>`+
     `<span class="pill">🕒 Updated <b>${dt(m.generatedAt)}</b></span>`+
-    `<span class="pill">🧵 <b>${m.totalTakes}</b> takes across <b>${m.stories?d.stories.length:0}</b> stories</span>`+
+    `<span class="pill">🧵 <b>${m.totalTakes}</b> takes across <b>${d.stories.length}</b> stories</span>`+
     `<span class="pill">👤 <b>${m.peopleTracked}</b> builders tracked</span>`;
   document.getElementById('note').textContent='ℹ️ '+m.note;
   renderFilters(); render();
