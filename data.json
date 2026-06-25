@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "generatedAt": "2026-06-25T04:48:12.624Z",
+    "dayLabel": "June 23–25, 2026",
+    "subject": {
+      "name": "Theo (t3.gg)",
+      "handle": "theo",
+      "x": "https://x.com/theo",
+      "youtube": "https://youtube.com/@t3dotgg"
+    },
+    "sources": [
+      "X (tweets + replies + quotes)",
+      "YouTube uploads (auto-transcripts)"
+    ],
+    "note": "Twitch raw-audio transcription is not available in this pipeline; stream content is sourced from Theo’s YouTube uploads, which carry auto-generated transcripts."
+  },
+  "highlights": [
+    {
+      "tag": "Shopping",
+      "title": "Prime Day deal-hunting thread",
+      "detail": "Called this year’s Amazon Prime Day front page \"absolute slop,\" used Codex to dig out real deals. Top picks: GMKtec mini PC (32GB/2TB for $750), GL.iNet remote KVM, Breville Smart Oven Air Fryer Pro ($320)."
+    },
+    {
+      "tag": "AI / Anthropic",
+      "title": "Fable (Mythos) model still banned",
+      "detail": "Continued the running saga — publicly asked Anthropic \"when are we getting Fable back?\" Still not restored after a week+."
+    },
+    {
+      "tag": "Building",
+      "title": "Gave away a list of app/startup ideas",
+      "detail": "\"I have a lot of ideas. I wish I could build them all... decided to give them all away in hopes of someone else building them.\" Joked he could have charged $5k each."
+    },
+    {
+      "tag": "Coding",
+      "title": "Codex praise",
+      "detail": "Despite frequently dunking on it: \"I know I dunk on Codex a lot but man this is actually magic.\""
+    },
+    {
+      "tag": "Podcast",
+      "title": "Looking for a new podcast cohost",
+      "detail": "Openly asked followers for cohost recommendations."
+    },
+    {
+      "tag": "Streaming",
+      "title": "Late-night stream",
+      "detail": "Announced a late stream and apologized for the recent slowdown in streams/videos."
+    },
+    {
+      "tag": "Hot takes",
+      "title": "Misc commentary",
+      "detail": "#keep4o / \"AI psychosis\" snark; \"Google can’t help but snatch defeat from the jaws of victory\"; gstack as a \"new paradigm\" (via @davis)."
+    }
+  ],
+  "twitter": {
+    "window": "last 48h",
+    "counts": {
+      "posts": 6,
+      "replies": 7,
+      "quotes": 3,
+      "retweets": 5,
+      "totalLikes": 22942,
+      "totalViews": 6749611
+    },
+    "topTweets": [
+      {
+        "date": "2026-06-23T10:22:47.000Z",
+        "text": "Weirdest Amazon Prime day to date. Front page is full of absolute slop. Had to spend hours digging and filtering to find the best deals (thank you Codex)\n\nDropping best deals I found here for y'all. I personally bought or already own every product I share here.",
+        "likes": 10305,
+        "views": 4327726,
+        "kind": "post",
+        "url": "https://x.com/theo/status/2069365546689458485",
+        "quoted": null
+      },
+      {
+        "date": "2026-06-23T19:52:36.000Z",
+        "text": "Hey @claude when are we getting Fable back?",
+        "likes": 2671,
+        "views": 310602,
+        "kind": "quote",
+        "url": "https://x.com/theo/status/2069508944423452880",
+        "quoted": "@claudeai"
+      },
+      {
+        "date": "2026-06-24T00:07:54.000Z",
+        "text": "Google can’t help but snatch defeat from the jaws of victory",
+        "likes": 2445,
+        "views": 190696,
+        "kind": "quote",
+        "url": "https://x.com/theo/status/2069573191182500257",
+        "quoted": "@JPoehnelt"
+      },
+      {
+        "date": "2026-06-23T10:25:21.000Z",
+        "text": "I know I dunk on Codex a lot but man this is actually magic. https://t.co/Lhq8bOQ3e3",
+        "likes": 1940,
+        "views": 251588,
+        "kind": "quote",
+        "url": "https://x.com/theo/status/2069366192536781273",
+        "quoted": "@theo"
+      },
+      {
+        "date": "2026-06-24T03:19:35.000Z",
+        "text": "I have a lot of ideas. I wish I could build them all. I don't have the time.\n\nI decided to give them all away in hopes of someone else building them. https://t.co/INF3vBcPxI",
+        "likes": 1847,
+        "views": 279968,
+        "kind": "post",
+        "url": "https://x.com/theo/status/2069621429189161350",
+        "quoted": null
+      },
+      {
+        "date": "2026-06-24T21:37:23.000Z",
+        "text": "Did you know it’s possible to summon hundreds of people with crippling AI psychosis on this site? All you have to do is add a hashtag to your post. #keep4o",
+        "likes": 1429,
+        "views": 108846,
+        "kind": "post",
+        "url": "https://x.com/theo/status/2069897700070556035",
+        "quoted": null
+      },
+      {
+        "date": "2026-06-24T04:25:56.000Z",
+        "text": "“All jokes aside, I do think gstack is a new paradigm” - @davis7",
+        "likes": 451,
+        "views": 73292,
+        "kind": "post",
+        "url": "https://x.com/theo/status/2069638130068853006",
+        "quoted": null
+      },
+      {
+        "date": "2026-06-23T10:43:44.000Z",
+        "text": "Oh shit this is an underrated one. GL iNet's KVM.\n\nHDMI + USB C to control any computer remotely. They also have a $30 \"finger bot\" that will press the power button for you. Super helpful for remote agent PCs. I have 3.\n\nhttps://t.co/ASRgZbAEB8 https://t.co/mxskJHA8Dx",
+        "likes": 384,
+        "views": 266559,
+        "kind": "reply",
+        "url": "https://x.com/theo/status/2069370818505937097",
+        "quoted": null
+      },
+      {
+        "date": "2026-06-23T10:22:56.000Z",
+        "text": "Breville Smart Oven Air Fryer Pro - $320 ($80 off)\n\nMy roommate bought this.\n\n\"but why does it say purchased twice\"\n\nI liked it so much I stole it when he moved out, so bought him a new one. Then I bought one for my family for when I visit them lol.\n\nhttps://t.co/WoAbCallrd https://t.co/6fs3cI50mQ",
+        "likes": 284,
+        "views": 306544,
+        "kind": "reply",
+        "url": "https://x.com/theo/status/2069365582768885905",
+        "quoted": null
+      },
+      {
+        "date": "2026-06-23T11:05:55.000Z",
+        "text": "GMKtec mini pc with 32gb ram 2tb ssd for $750 (over $200 off)\n\nMan this one hurts a little. I bought the 1tb for $740 last week and it arrived yesterday. The barebones (no ram no ssd) version is $400, so you're paying $350 for the ram and SSD. The SSD is worth that much alone https://t.co/xXBsRloOI9",
+        "likes": 261,
+        "views": 236505,
+        "kind": "reply",
+        "url": "https://x.com/theo/status/2069376401581457895",
+        "quoted": null
+      },
+      {
+        "date": "2026-06-24T04:26:15.000Z",
+        "text": "Unrelated, looking for a new podcast cohost. Got any recommendations?",
+        "likes": 234,
+        "views": 23787,
+        "kind": "reply",
+        "url": "https://x.com/theo/status/2069638206665212232",
+        "quoted": null
+      },
+      {
+        "date": "2026-06-24T23:17:06.000Z",
+        "text": "Y’all down for a late stream in an hour or so?",
+        "likes": 232,
+        "views": 13935,
+        "kind": "post",
+        "url": "https://x.com/theo/status/2069922796524990842",
+        "quoted": null
+      }
+    ]
+  },
+  "youtube": {
+    "videos": [
+      {
+        "videoId": "WBT-z_-OPhw",
+        "title": "It’s time to go bigger",
+        "date": "2026-06-19",
+        "durationMin": 23,
+        "summary": "Based on his CascadiaJS talk. Argues AI hasn’t shrunk the work — it expanded what’s worth building. Reframes engineers’ fear of AI as opportunity: the same task taking 10–15h instead of 100s of hours means you should build bigger, more ambitious things. Mindset over specific tools.",
+        "topics": [
+          "AI mindset",
+          "building bigger",
+          "career",
+          "CascadiaJS talk"
+        ]
+      },
+      {
+        "videoId": "iJVJwmCKW9o",
+        "title": "I guess we’re writing loops now?",
+        "date": "2026-06-18",
+        "durationMin": 25,
+        "summary": "On agentic \"loops\" — designing loops that prompt your agents instead of prompting agents directly. References the Ralph loop. Loops massively increase throughput but also error rate; he walks through how he keeps quality up (e.g. second-opinion passes with Opus).",
+        "topics": [
+          "agentic loops",
+          "Codex",
+          "Ralph loop",
+          "AI coding workflow"
+        ]
+      },
+      {
+        "videoId": "7IewbRdaBWI",
+        "title": "Fable is Mythos, and it is really good.",
+        "date": "2026-06-10",
+        "durationMin": 33,
+        "summary": "Reveals that the \"Fable\" model is Mythos, and praises it heavily for coding and data analysis — the model at the center of the later ban saga.",
+        "topics": [
+          "Fable",
+          "Mythos",
+          "model review",
+          "Anthropic"
+        ]
+      }
+    ]
+  }
+}
