@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T03:35:58.097Z",
-    "dayLabel": "July 7-10, 2026",
+    "generatedAt": "2026-07-14T04:24:46.158Z",
+    "dayLabel": "July 11-14, 2026",
     "title": "TechPulse",
     "tagline": "Tech & AI news, hot takes, and who's saying what — from the builders you follow",
     "window": "last 72h",
-    "peopleTracked": 139,
-    "peopleFeatured": 35,
-    "totalTakes": 50,
+    "peopleTracked": 58,
+    "peopleFeatured": 30,
+    "totalTakes": 44,
     "sources": [
       "Your X Following feed"
     ],
@@ -15,613 +15,553 @@
   },
   "stories": [
     {
-      "id": "model-race-gpt56-grok45-fable",
-      "title": "The Model Race Goes Nuclear: GPT-5.6 Sol, Grok 4.5, and Fable All Launch in the Same Week",
+      "id": "model-race-fable-vs-sol",
+      "title": "The Fable vs GPT-5.6 Sol Rivalry Rages On",
       "category": "AI Models",
-      "summary": "OpenAI shipped its GPT-5.6 family (Sol/Terra/Luna) publicly the same week xAI launched Grok 4.5 as a cheap, fast Opus-class model and Anthropic extended free access to Fable 5. Builders spent the week comparing all three head-to-head, with Meta's Muse Spark 1.1 joining as a fourth contender.",
-      "participants": 47,
+      "summary": "The Claude-vs-OpenAI flagship debate is still the main event: some builders swear by Fable's quality, others have fully switched to GPT-5.6 Sol, and OpenAI's Sam Altman keeps taking not-so-subtle jabs at the competition while Grok 4.5's scale keeps climbing.",
+      "participants": 8,
       "takes": [
-        {
-          "handle": "OpenAI",
-          "name": "OpenAI",
-          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
-          "text": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview access globally now. https://t.co/Uk5HcfSc2e",
-          "likes": 47718,
-          "views": 9345898,
-          "url": "https://x.com/OpenAI/status/2074704958419792299",
-          "date": "2026-07-08T03:59:42.000Z"
-        },
-        {
-          "handle": "elonmusk",
-          "name": "Elon Musk",
-          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_400x400.jpg",
-          "text": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow.\n\nIt is an Opus-class model, but faster, more token-efficient and lower cost.",
-          "likes": 57155,
-          "views": 6702374,
-          "url": "https://x.com/elonmusk/status/2074740539874775163",
-          "date": "2026-07-08T06:21:06.000Z"
-        },
-        {
-          "handle": "claudeai",
-          "name": "Claude",
-          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_400x400.jpg",
-          "text": "We're extending access to Claude Fable 5 on all paid plans through July 12.",
-          "likes": 81556,
-          "views": 21563481,
-          "url": "https://x.com/claudeai/status/2074548242386178258",
-          "date": "2026-07-07T17:36:58.000Z"
-        },
         {
           "handle": "theo",
           "name": "Theo - t3.gg",
           "avatar": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_400x400.jpg",
-          "text": "Apparently I'm allowed to talk about GPT-5.6 now?\n\nIt's a damn good model. Not quite as \"smart\" as Fable, but it is incredibly capable. Fixed all the problems I had with GPT-5.5.\n\nIt is incredibly determined. Will run for a day without even using a /goal. It understands subagents",
-          "likes": 8879,
-          "views": 942591,
-          "url": "https://x.com/theo/status/2074708892341481755",
-          "date": "2026-07-08T04:15:20.000Z"
-        },
-        {
-          "handle": "mntruell",
-          "name": "Michael Truell",
-          "avatar": "https://pbs.twimg.com/profile_images/1887065642261737472/QdLiAFfD_400x400.jpg",
-          "text": "Excited to release Grok 4.5 with @SpaceXAI. \n\nIt's an Opus-class model that's fast and low cost. It's a significant step up over any model we've developed so far, including Composer 2.5, and has become the daily driver for many on our team. \n\nFirst of many releases. More soon.",
-          "likes": 9079,
-          "views": 1093224,
-          "url": "https://x.com/mntruell/status/2074916251743457787",
-          "date": "2026-07-08T17:59:19.000Z"
-        },
-        {
-          "handle": "thdxr",
-          "name": "dax",
-          "avatar": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_400x400.jpg",
-          "text": "i've never hyped a model release, we're generally conservative with how we use these things\n\nbut gpt-5.6 has had a massive impact on our team, we're using 5x the tokens as we used to\n\nit's not even smarter than fable or anything, but it's just so reliable and fun to use",
-          "likes": 6395,
-          "views": 1143708,
-          "url": "https://x.com/thdxr/status/2074856006576713973",
-          "date": "2026-07-08T13:59:55.000Z"
-        },
-        {
-          "handle": "theo",
-          "name": "Theo - t3.gg",
-          "avatar": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_400x400.jpg",
-          "text": "“Fable is a 'wise owl' who is very thoughtful and very well spoken, GPT-5.6-Sol is like a rottweiler who will grab the problem by the throat and not let go until it is done.”\n\nBest explanation I’ve heard so far.",
-          "likes": 3676,
-          "views": 248205,
-          "url": "https://x.com/theo/status/2075075533604524068",
-          "date": "2026-07-09T04:32:14.000Z"
-        },
-        {
-          "handle": "davis7",
-          "name": "Ben Davis",
-          "avatar": "https://pbs.twimg.com/profile_images/2052289378706423808/g5qAyVi6_400x400.jpg",
-          "text": "On Fable being smarter than 5.6 - it is, but:\n\nI think smart is the wrong word, the thing 5.6 is lacking behind fable is the \"big model smell\" which roughly translates to \"understanding the unsaid intent behind your prompt\"\n\nfable fills in the blanks better, it writes more",
-          "likes": 830,
-          "views": 128701,
-          "url": "https://x.com/davis7/status/2074975718484898182",
-          "date": "2026-07-08T21:55:37.000Z"
-        },
-        {
-          "handle": "lochan_twt",
-          "name": "spidey",
-          "avatar": "https://pbs.twimg.com/profile_images/2004224861674283008/DcuzkoCw_400x400.jpg",
-          "text": "the last couple of days has been crazy \n\n&gt; Anthropic brings back Fable 5\n&gt; OpenAI launched GPT 5.6\n&gt; Grok launched Grok 4.5\n&gt; Meta launched Meta Muse Spark 1.1\n\nai race is getting interesting https://t.co/U2KtYVb8cu",
-          "likes": 13,
-          "views": 1330,
-          "url": "https://x.com/lochan_twt/status/2075293609461792846",
-          "date": "2026-07-09T18:58:48.000Z"
-        },
-        {
-          "handle": "kentcdodds",
-          "name": "Kent C. Dodds 🏹",
-          "avatar": "https://pbs.twimg.com/profile_images/1567269493608714241/6ACZo99k_400x400.jpg",
-          "text": "Been using Grok 4.5 for most of my tasks the last couple days and it's good. Not quite Fable level I think, but it's a great coding model and it's WAY faster and cheaper (especially factoring in all the thinking Fable does).",
-          "likes": 107,
-          "views": 7568,
-          "url": "https://x.com/kentcdodds/status/2075251458518511637",
-          "date": "2026-07-09T16:11:18.000Z"
-        }
-      ]
-    },
-    {
-      "id": "bun-rewritten-in-rust",
-      "title": "Bun Gets Rewritten in Rust, and It Cost Basically Nothing in AI Tokens",
-      "category": "AI Coding",
-      "summary": "Jarred Sumner announced Bun is being rewritten in Rust, and developers were floored that the whole effort cost roughly $165k in AI tokens versus the ~14 engineer-months it took to rewrite Turborepo in Rust the old-fashioned way.",
-      "participants": 5,
-      "takes": [
-        {
-          "handle": "jarredsumner",
-          "name": "Jarred Sumner",
-          "avatar": "https://pbs.twimg.com/profile_images/1342417825483300864/Vz4ChOFG_400x400.jpg",
-          "text": "Rewriting Bun in Rust\n\nhttps://t.co/Rl8bcaxBFc",
-          "likes": 7845,
-          "views": 3062517,
-          "url": "https://x.com/jarredsumner/status/2074973674332123157",
-          "date": "2026-07-08T21:47:29.000Z"
-        },
-        {
-          "handle": "theo",
-          "name": "Theo - t3.gg",
-          "avatar": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_400x400.jpg",
-          "text": "The Bun rewrite in Rust would have cost about $165k in tokens if it was done over API https://t.co/nD88V86Fjc",
-          "likes": 3085,
-          "views": 593495,
-          "url": "https://x.com/theo/status/2075006176845291977",
-          "date": "2026-07-08T23:56:38.000Z"
-        },
-        {
-          "handle": "jaredpalmer",
-          "name": "Jared Palmer",
-          "avatar": "https://pbs.twimg.com/profile_images/2046675016805203968/isnDn3_Y_400x400.jpg",
-          "text": "The Bun rewrite was dirt cheap even at Fable pricing. For comparison, it took 3-5 engineers (about half the core team) about ~14 months to rewrite @Turborepo in Rust between 2023 and 2024. When you consider the opportunity cost on top of eng salaries, it actually cost several",
-          "likes": 1022,
-          "views": 123324,
-          "url": "https://x.com/jaredpalmer/status/2075256080532115895",
-          "date": "2026-07-09T16:29:40.000Z"
-        },
-        {
-          "handle": "dexhorthy",
-          "name": "dex",
-          "avatar": "https://pbs.twimg.com/profile_images/1936650128518938624/tCFV_MZO_400x400.jpg",
-          "text": "I love the part of the bun rewrite that shows what’s possible and pushes people to ask their models for more\n\nI am concerned about the part where people try to do this for things that \n\n1) aren’t already designed/architected\n2) don’t have such a comprehensive test suite and",
-          "likes": 93,
-          "views": 13572,
-          "url": "https://x.com/dexhorthy/status/2075026650815938844",
-          "date": "2026-07-09T01:18:00.000Z"
-        },
-        {
-          "handle": "tualatrix",
-          "name": "图拉鼎",
-          "avatar": "https://pbs.twimg.com/profile_images/675270246509350912/lV9-F5ey_400x400.jpg",
-          "text": "看了这篇 Bun 用 Rust 重写的文章，重点不是 Fable 多厉害，也不是 Rust 多好，而是在 AI 时代，全功能的编译型、全生命周期管理的语言（像 Rust 这样的），将会加速得到适配。Swift，你也要加油啊！",
-          "likes": 85,
-          "views": 31161,
-          "url": "https://x.com/tualatrix/status/2075024000078737409",
-          "date": "2026-07-09T01:07:28.000Z"
-        }
-      ]
-    },
-    {
-      "id": "agent-skills-context-engineering",
-      "title": "Agent Skills Tooling Keeps Evolving: Skill Repos, Papercuts, and Subagent Forks",
-      "category": "AI Coding",
-      "summary": "The \"context engineering\" toolkit for coding agents keeps maturing - Matt Pocock shipped skills v1.1 with new planning commands, while others shared small but sharp workflow hacks like subagent forking and a \"papercuts\" complaint log for agents.",
-      "participants": 5,
-      "takes": [
-        {
-          "handle": "mattpocockuk",
-          "name": "Matt Pocock",
-          "avatar": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_400x400.jpg",
-          "text": "My skills repo has 160K stars, 7.5m downloads...\n\n...and no tutorial.\n\nSo, here it is. Watch me walk through the essential skills:\n\n- /grill-with-docs\n- /to-spec\n- /to-tickets\n- /implement\n- /code-review\n\nIt's the whole flow, end-to-end. Enjoy: https://t.co/mVdRQEjSMp",
-          "likes": 3818,
-          "views": 191713,
-          "url": "https://x.com/mattpocockuk/status/2075218406266036236",
-          "date": "2026-07-09T13:59:58.000Z"
-        },
-        {
-          "handle": "mattpocockuk",
-          "name": "Matt Pocock",
-          "avatar": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_400x400.jpg",
-          "text": "mattpocock/skills v1.1 is out!\n\n- /wayfinder helps you plan more ambitious work than ever\n- /to-spec and /to-tickets replace /to-prd and /to-issues\n- /implement + /code-review complete the whole lifecycle\n- /research and /prototype help support wayfinder, or can be used https://t.co/ibrxXXCDb5",
-          "likes": 3472,
-          "views": 209713,
-          "url": "https://x.com/mattpocockuk/status/2074860312423997800",
-          "date": "2026-07-08T14:17:02.000Z"
-        },
-        {
-          "handle": "steveruizok",
-          "name": "Steve Ruiz",
-          "avatar": "https://pbs.twimg.com/profile_images/1998689716229558272/GSFU7BiZ_400x400.jpg",
-          "text": "I added a tiny \"papercuts\" cli tool that agents can use to complain about bullshit they encountered during work, like dead-end tool calls, broken links, or other frustrations. The models would usually just push through without mentioning any problems https://t.co/oLLRaV3cDm",
-          "likes": 1318,
-          "views": 52328,
-          "url": "https://x.com/steveruizok/status/2075303919664734295",
-          "date": "2026-07-09T19:39:46.000Z"
-        },
-        {
-          "handle": "delba_oliveira",
-          "name": "Delba",
-          "avatar": "https://pbs.twimg.com/profile_images/2045922548387651584/fzDD934a_400x400.jpg",
-          "text": "Smol tip: /𝚏𝚘𝚛𝚔 is perfect for mid-task side quests.\n\nIt spawns a subagent that inherits the whole conversation, runs in the background while you keep working on your main quest, and comes back with an update. https://t.co/EE4MS41sJZ",
-          "likes": 1264,
-          "views": 106207,
-          "url": "https://x.com/delba_oliveira/status/2074560337605468304",
-          "date": "2026-07-07T18:25:02.000Z"
-        },
-        {
-          "handle": "dexhorthy",
-          "name": "dex",
-          "avatar": "https://pbs.twimg.com/profile_images/1936650128518938624/tCFV_MZO_400x400.jpg",
-          "text": "@mattpocockuk T minus 3 weeks until you’re running around turning off every tool and subagent and 6 weeks until you give up trying to give up with the bloat and end up switching harnesses or writing your own",
-          "likes": 17,
-          "views": 1084,
-          "url": "https://x.com/dexhorthy/status/2074847133367517591",
-          "date": "2026-07-08T13:24:40.000Z"
-        }
-      ]
-    },
-    {
-      "id": "ai-design-systems-tooling",
-      "title": "AI Is Eating Design Systems: Extract, Generate, and Refine in One Prompt",
-      "category": "Design Tools",
-      "summary": "A cluster of designers shared AI-powered design tooling this week - from extracting a full design system off any website to Apple WWDC-inspired motion principles and Figma shader experiments, showing how fast AI is absorbing design-system busywork.",
-      "participants": 5,
-      "takes": [
-        {
-          "handle": "emilkowalski",
-          "name": "Emil Kowalski",
-          "avatar": "https://pbs.twimg.com/profile_images/1469017066795679751/CjEOyirb_400x400.jpg",
-          "text": "New skill: /apple-design\n\nApple’s WWDC videos are a goldmine of knowledge. I’ve combed through my favorite ones and came up with 17 design and motion principles.\n\nUse them to review existing work or when working on something new to get it right.\n\nhttps://t.co/jCwhthpi20",
-          "likes": 7955,
-          "views": 566812,
-          "url": "https://x.com/emilkowalski/status/2075188252877672732",
-          "date": "2026-07-09T12:00:09.000Z"
-        },
-        {
-          "handle": "Abmankendrick",
-          "name": "Abraham John 🦄🦓",
-          "avatar": "https://pbs.twimg.com/profile_images/1983915658829041664/iG7fFe9U_400x400.jpg",
-          "text": "UI/UX Designers, you need to see this.\n\nI just discovered a tool called HyperDesign, and it’s one of the easiest ways to extract a complete design system from any website. Just paste a URL, and it generates a DESIGN.md file with the site’s colors, typography, spacing, and UI https://t.co/5SIO0ATBaJ",
-          "likes": 1395,
-          "views": 100757,
-          "url": "https://x.com/Abmankendrick/status/2074426336253260211",
-          "date": "2026-07-07T09:32:34.000Z"
-        },
-        {
-          "handle": "praveenisomer",
-          "name": "Praveen Kumar",
-          "avatar": "https://pbs.twimg.com/profile_images/2054301857447895040/W9VqwjhW_400x400.jpg",
-          "text": "More figma shaders magic https://t.co/CYtlnnJQPN",
-          "likes": 908,
-          "views": 44239,
-          "url": "https://x.com/praveenisomer/status/2075195768777191488",
-          "date": "2026-07-09T12:30:01.000Z"
-        },
-        {
-          "handle": "raunofreiberg",
-          "name": "rauno",
-          "avatar": "https://pbs.twimg.com/profile_images/1939625043522146304/3z3zSWLx_400x400.jpg",
-          "text": "this week @merycodes and I are refining the vercel design system by tweaking sizing, alignment, deleting redundancies... doing the \"boring work\"\n\nwhy are we doing this? because we care :) https://t.co/OnSxh7LsNo",
-          "likes": 754,
-          "views": 34473,
-          "url": "https://x.com/raunofreiberg/status/2074832501520887808",
-          "date": "2026-07-08T12:26:31.000Z"
-        },
-        {
-          "handle": "tomjohndesign",
-          "name": "Tom Johnson",
-          "avatar": "https://pbs.twimg.com/profile_images/1920660013020049409/lv018ZJ7_400x400.jpg",
-          "text": "legitimately impressive how @v0 can basically one-shot the actual Geist UI from a screenshot with the new design systems features.\n\nIt's graduated from:\n\"imagine you're in Vercel\" to \"wait this isn't Vercel?\"\n\nmy workflow for internal prototypes is completely different now. https://t.co/DVI5ifmOxF",
-          "likes": 35,
-          "views": 2422,
-          "url": "https://x.com/tomjohndesign/status/2075233424663552374",
-          "date": "2026-07-09T14:59:39.000Z"
-        }
-      ]
-    },
-    {
-      "id": "vercel-acquires-better-auth",
-      "title": "Vercel Scoops Up Better Auth's Bekacru to Build Auth for Agents",
-      "category": "Career Moves",
-      "summary": "Vercel's Guillermo Rauch welcomed Better Auth creator Bekacru to the team, framing it as a move to build open-source auth for both humans and AI agents. The dev community reacted with congrats and a few jokes about the inevitability of the deal.",
-      "participants": 4,
-      "takes": [
-        {
-          "handle": "rauchg",
-          "name": "Guillermo Rauch",
-          "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_400x400.jpg",
-          "text": "Welcome @bekacru to Vercel. It's a privilege to join forces with Bereket and Better Auth to further our Open SDK vision. \n\nDevelopers deserve better auth, to serve humans and agents, built in the open and with taste. That's what Bereket has accomplished. Congrats! 🇪🇹🇺🇸",
-          "likes": 1108,
-          "views": 90407,
-          "url": "https://x.com/rauchg/status/2074523653488947338",
-          "date": "2026-07-07T15:59:16.000Z"
-        },
-        {
-          "handle": "Rasmic",
-          "name": "Micky",
-          "avatar": "https://pbs.twimg.com/profile_images/2025424976375869440/OgySAub0_400x400.jpg",
-          "text": "Congrats to my bro @bekacru, if only you knew his story... a straight legend\n\nCongrats to @rauchg @vercel this was a very smart move ♟️ https://t.co/GuMsHtXQ9K",
-          "likes": 293,
-          "views": 10998,
-          "url": "https://x.com/Rasmic/status/2074523901791502633",
-          "date": "2026-07-07T16:00:15.000Z"
+          "text": "I still prefer Fable btw",
+          "likes": 1793,
+          "views": 100476,
+          "url": "https://x.com/theo/status/2076795787825271133",
+          "date": "2026-07-13T22:27:55.000Z"
         },
         {
           "handle": "jamesperkins",
           "name": "James Perkins",
           "avatar": "https://pbs.twimg.com/profile_images/1854308174817579008/Lon8OO2h_400x400.jpg",
-          "text": "This was inevitable! Congrats to the whole Better Auth team and Vercel.",
-          "likes": 47,
-          "views": 3263,
-          "url": "https://x.com/jamesperkins/status/2074530219965214894",
-          "date": "2026-07-07T16:25:22.000Z"
-        },
-        {
-          "handle": "joelhooks",
-          "name": "joel ⛈️",
-          "avatar": "https://pbs.twimg.com/profile_images/1896711404381732864/PrDnDmii_400x400.jpg",
-          "text": "@rauchg @bekacru hell yeah. love this. love better auth. what a great match.",
+          "text": "Fable still on top for me",
           "likes": 2,
-          "views": 543,
-          "url": "https://x.com/joelhooks/status/2074588806188343668",
-          "date": "2026-07-07T20:18:10.000Z"
+          "views": 109,
+          "url": "https://x.com/jamesperkins/status/2076800257610879388",
+          "date": "2026-07-13T22:45:41.000Z"
+        },
+        {
+          "handle": "Rasmic",
+          "name": "Micky",
+          "avatar": "https://pbs.twimg.com/profile_images/2025424976375869440/OgySAub0_400x400.jpg",
+          "text": "Fable > 5.6 Sol",
+          "likes": 26,
+          "views": 3023,
+          "url": "https://x.com/Rasmic/status/2076822108596769208",
+          "date": "2026-07-14T00:12:30.000Z"
+        },
+        {
+          "handle": "davis7",
+          "name": "Ben Davis",
+          "avatar": "https://pbs.twimg.com/profile_images/2052289378706423808/g5qAyVi6_400x400.jpg",
+          "text": "I still prefer GPT-5.6 btw",
+          "likes": 300,
+          "views": 12898,
+          "url": "https://x.com/davis7/status/2076847725577126161",
+          "date": "2026-07-14T01:54:18.000Z"
+        },
+        {
+          "handle": "Layton_Gott",
+          "name": "Layton Gott",
+          "avatar": "https://pbs.twimg.com/profile_images/2018425281212538880/9sY4ER7m_400x400.jpg",
+          "text": "I can only imagine what GPT 5.6 Sol Ultra is like...",
+          "likes": 5,
+          "views": 185,
+          "url": "https://x.com/Layton_Gott/status/2076787923869966595",
+          "date": "2026-07-13T21:56:40.000Z"
+        },
+        {
+          "handle": "AlemTuzlak",
+          "name": "Alem Tuzlak 🇧🇦",
+          "avatar": "https://pbs.twimg.com/profile_images/2067911305973878784/CDLxq_ih_400x400.jpg",
+          "text": "@sama The only thing that bugs me about the new models is the fact that they are very slow. I've been running sol on fast mode qnd it took it 4 hours to review and write an implementation doc. \n\nI stopped it and told it to wrap it up and spend the remainder of my day using it to",
+          "likes": 2,
+          "views": 162,
+          "url": "https://x.com/AlemTuzlak/status/2076793214212690194",
+          "date": "2026-07-13T22:17:41.000Z"
+        },
+        {
+          "handle": "sama",
+          "name": "Sam Altman",
+          "avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_400x400.jpg",
+          "text": "come for the best model, stay because we don’t treat you with contempt",
+          "likes": 14488,
+          "views": 1195735,
+          "url": "https://x.com/sama/status/2076780425280954658",
+          "date": "2026-07-13T21:26:52.000Z"
+        },
+        {
+          "handle": "mirko_monti6",
+          "name": "Mirko Monti",
+          "avatar": "https://pbs.twimg.com/profile_images/1587064907379490816/zRV2gIXS_400x400.jpg",
+          "text": "So, Grok 4.5 is a 1.5 T model, Grok 5 would be 10T model... then Grok 6 will be a 100T models? \n\nIs there a limit?",
+          "likes": 0,
+          "views": 87,
+          "url": "https://x.com/mirko_monti6/status/2076736018732982667",
+          "date": "2026-07-13T18:30:25.000Z"
         }
       ]
     },
     {
-      "id": "eu-chat-control-backlash",
-      "title": "Devs Push Back on EU \"Chat Control\" and UK VPN Restrictions",
-      "category": "Big Tech / Policy",
-      "summary": "European digital-rights rules are back in the crosshairs - developers slammed the EU's chat-control scanning proposal and new UK VPN restrictions as privacy overreach dressed up as safety regulation.",
-      "participants": 2,
+      "id": "agent-skills-ecosystem-grows",
+      "title": "Agent Skills Tooling Keeps Compounding",
+      "category": "AI Coding",
+      "summary": "The 'skills' ecosystem for coding agents keeps growing fast: Kent C. Dodds is building out community integration packages for his Kody agent, Matt Pocock is livestreaming a new agent tool called Wayfinder, and Emil Kowalski's skills repo just crossed 8,000 GitHub stars in a week.",
+      "participants": 4,
       "takes": [
         {
-          "handle": "dhh",
-          "name": "DHH",
-          "avatar": "https://pbs.twimg.com/profile_images/1746980162607140864/fG9Fj4K__400x400.jpg",
-          "text": "Chat control in the EU, VPN restrictions in the UK. All in service of ensuring that the natives don't dare critique the regimes online. When the Brits and the rest of Europe has finally had enough of this, it'll be an explosive moment.",
-          "likes": 2104,
-          "views": 68472,
-          "url": "https://x.com/dhh/status/2075295777673634256",
-          "date": "2026-07-09T19:07:25.000Z"
-        },
-        {
-          "handle": "vaxryy",
-          "name": "vaxry",
-          "avatar": "https://pbs.twimg.com/profile_images/1787959548474540032/yjyBDXjI_400x400.jpg",
-          "text": "They will shove this down everyone's throats until they succeed. I thought even the european tribunal shot this down once for being unconstitutional due to the proportionality rule?\n\nugh.",
-          "likes": 1876,
-          "views": 31233,
-          "url": "https://x.com/vaxryy/status/2074745220156059982",
-          "date": "2026-07-08T06:39:42.000Z"
-        },
-        {
-          "handle": "vaxryy",
-          "name": "vaxry",
-          "avatar": "https://pbs.twimg.com/profile_images/1787959548474540032/yjyBDXjI_400x400.jpg",
-          "text": "to every politician who voted in favor of chat control, or against amendment 30, I wish you a very pleasant \"your private messages get scanned, stored, then later hacked and leaked on the internet\" with a side of \"24/7 surveillance cameras in your house\" and \"gps tracker in your",
-          "likes": 1615,
-          "views": 26642,
-          "url": "https://x.com/vaxryy/status/2075191649840361490",
-          "date": "2026-07-09T12:13:39.000Z"
-        }
-      ]
-    },
-    {
-      "id": "swe-bench-pro-audit",
-      "title": "OpenAI Audits SWE-Bench Pro and Finds 30% of Tasks Are Broken",
-      "category": "AI Models",
-      "summary": "OpenAI published an audit of the widely-used SWE-Bench Pro coding benchmark, concluding it no longer reliably measures frontier coding capability - with roughly 30% of tasks found to be broken, prompting devs to question what benchmark gains even mean anymore.",
-      "participants": 2,
-      "takes": [
-        {
-          "handle": "OpenAI",
-          "name": "OpenAI",
-          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
-          "text": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability.\n\nWe find 30% of SWE-Bench Pro tasks to be broken, and are retracting our previous recommendation that the research community use it as",
-          "likes": 7592,
-          "views": 2053959,
-          "url": "https://x.com/OpenAI/status/2074972179385720836",
-          "date": "2026-07-08T21:41:33.000Z"
-        },
-        {
-          "handle": "OpenAI",
-          "name": "OpenAI",
-          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
-          "text": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers.\n\nThat helped us examine tasks at scale while keeping expert judgment at the center. https://t.co/3PNbk57uvF",
-          "likes": 645,
-          "views": 197842,
-          "url": "https://x.com/OpenAI/status/2074972182640492731",
-          "date": "2026-07-08T21:41:34.000Z"
-        },
-        {
-          "handle": "ThePrimeagen",
-          "name": "ThePrimeagen",
-          "avatar": "https://pbs.twimg.com/profile_images/1924503772094517249/DfKkH0ph_400x400.jpg",
-          "text": "good\n\nthese benchmarks have been gamed for so long\n\nAlso, can we just take a moment and ask ourselves, wtf does 3% better SWE-Bench Pro even mean?  Does it mean ANYTHING at all to you?  No.  No it doesn't.  It just tickles your dumb lizard brain",
-          "likes": 129,
-          "views": 15865,
-          "url": "https://x.com/ThePrimeagen/status/2074965238584119544",
-          "date": "2026-07-08T21:13:58.000Z"
-        }
-      ]
-    },
-    {
-      "id": "typescript-7-release",
-      "title": "TypeScript 7 Is Officially Out",
-      "category": "Web Dev",
-      "summary": "The TypeScript team shipped TypeScript 7, with a compatibility package for teams still needing the TS 6 API - developers are already installing it to try out the new release.",
-      "participants": 2,
-      "takes": [
-        {
-          "handle": "typescript",
-          "name": "TypeScript",
-          "avatar": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png",
-          "text": "📣 The moment is here. 📣\n\nTypeScript 7 is officially released! 7️⃣\n\nhttps://t.co/D7Mbq7vWpy",
-          "likes": 10182,
-          "views": 1627594,
-          "url": "https://x.com/typescript/status/2074892178745327926",
-          "date": "2026-07-08T16:23:39.000Z"
-        },
-        {
-          "handle": "typescript",
-          "name": "TypeScript",
-          "avatar": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png",
-          "text": "We know people will still need TS 6 for API usage.\n\nThat's why there's a new `@typescript/typescript6` package that provides\n\n- the TypeScript 6 API\n- a separate `tsc6` binary\n\nInstall it side-by-side with TypeScript 7, and don't worry about conflicts with `tsc`.",
-          "likes": 79,
-          "views": 18031,
-          "url": "https://x.com/typescript/status/2074892195841417421",
-          "date": "2026-07-08T16:23:43.000Z"
+          "handle": "emilkowalski",
+          "name": "Emil Kowalski",
+          "avatar": "https://pbs.twimg.com/profile_images/1469017066795679751/CjEOyirb_400x400.jpg",
+          "text": "My skills repo has gained 8,000 GitHub stars in a week, it surpassed Vaul and is 300 stars short of surpassing Sonner. \n\nNot greatest metrics of success, but it’s a good indication of how the times change. https://t.co/tpdjhy92Ly",
+          "likes": 525,
+          "views": 15143,
+          "url": "https://x.com/emilkowalski/status/2076739901060423685",
+          "date": "2026-07-13T18:45:51.000Z"
         },
         {
           "handle": "kentcdodds",
           "name": "Kent C. Dodds 🏹",
           "avatar": "https://pbs.twimg.com/profile_images/1567269493608714241/6ACZo99k_400x400.jpg",
-          "text": "https://t.co/ua6q1wswqc\n\nTypeScript 7 here we go!",
-          "likes": 29,
-          "views": 9098,
-          "url": "https://x.com/kentcdodds/status/2074937834730115198",
-          "date": "2026-07-08T19:25:04.000Z"
+          "text": "One nice thing about the way @kodykoala works is that it doesn't come with built-in integrations hosted by Kody. Instead Kody helps you create the integration yourself giving you complete control over what Kody can do with your integration. https://t.co/b0kIUXxJNT",
+          "likes": 6,
+          "views": 5468,
+          "url": "https://x.com/kentcdodds/status/2076721753301319833",
+          "date": "2026-07-13T17:33:44.000Z"
+        },
+        {
+          "handle": "kentcdodds",
+          "name": "Kent C. Dodds 🏹",
+          "avatar": "https://pbs.twimg.com/profile_images/1567269493608714241/6ACZo99k_400x400.jpg",
+          "text": "I just published a @raycast community package for @kodykoala https://t.co/mkr0aD4CR3\n\nI use this to bridge into my own raycast extension which allows me to have quick shortcuts to trigger whatever I want with Kody. Right now I'm using it to open and close my shades ☀️",
+          "likes": 3,
+          "views": 2398,
+          "url": "https://x.com/kentcdodds/status/2076746342299299890",
+          "date": "2026-07-13T19:11:26.000Z"
+        },
+        {
+          "handle": "kentcdodds",
+          "name": "Kent C. Dodds 🏹",
+          "avatar": "https://pbs.twimg.com/profile_images/1567269493608714241/6ACZo99k_400x400.jpg",
+          "text": "Yo @resend, you got a package in @kodykoala https://t.co/bDXn5CNFfA 🔥",
+          "likes": 3,
+          "views": 3798,
+          "url": "https://x.com/kentcdodds/status/2076772628556337338",
+          "date": "2026-07-13T20:55:53.000Z"
+        },
+        {
+          "handle": "joelhooks",
+          "name": "joel ⛈️",
+          "avatar": "https://pbs.twimg.com/profile_images/1896711404381732864/PrDnDmii_400x400.jpg",
+          "text": "published skills are often best used as inspiration https://t.co/d9164xnLKJ",
+          "likes": 12,
+          "views": 667,
+          "url": "https://x.com/joelhooks/status/2076746284573307374",
+          "date": "2026-07-13T19:11:12.000Z"
+        },
+        {
+          "handle": "mattpocockuk",
+          "name": "Matt Pocock",
+          "avatar": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_400x400.jpg",
+          "text": "Going live to demo /wayfinder\n\nTime to get your questions in now!\n\nhttps://t.co/pqd1tduyQP",
+          "likes": 396,
+          "views": 44928,
+          "url": "https://x.com/mattpocockuk/status/2076679479435337784",
+          "date": "2026-07-13T14:45:45.000Z"
         }
       ]
     },
     {
-      "id": "gpt-live-voice-launch",
-      "title": "OpenAI Launches GPT-Live, Its Next-Gen Voice Mode",
-      "category": "AI Models",
-      "summary": "OpenAI rolled out GPT-Live, a new voice model for ChatGPT that Sam Altman says feels 'magical and real' enough to shift his own preference from typing to talking with AI.",
+      "id": "vercel-agent-tooling-wave",
+      "title": "Vercel Keeps Shipping Agent-Native Dev Tooling",
+      "category": "Web Dev",
+      "summary": "Vercel had a busy stretch: CLI-managed feature flag targeting rules (now framed as a building block for autonomous, self-optimizing agents), a 10% cost cut on Web Analytics, subagent visibility in Agent Runs, and early TypeScript 7 support landing in Next.js.",
+      "participants": 3,
+      "takes": [
+        {
+          "handle": "vercel_dev",
+          "name": "Vercel Developers",
+          "avatar": "https://pbs.twimg.com/profile_images/1978602411490205696/oLOuP7a2_400x400.png",
+          "text": "You can now manage targeting rules for Vercel Flags with Vercel CLI.\n\n𝚟𝚌 𝚏𝚕𝚊𝚐𝚜 𝚛𝚞𝚕𝚎𝚜 𝚊𝚍𝚍 𝚗𝚎𝚠-𝚌𝚑𝚎𝚌𝚔𝚘𝚞𝚝 \\\n  --𝚌𝚘𝚗𝚍𝚒𝚝𝚒𝚘𝚗 \"𝚞𝚜𝚎𝚛.𝚌𝚘𝚞𝚗𝚝𝚛𝚢:𝚒𝚗:𝙳𝙴,𝙴𝚂\" \\\n  --𝚟𝚊𝚛𝚒𝚊𝚗𝚝 𝚗𝚎𝚠-𝚌𝚑𝚎𝚌𝚔𝚘𝚞𝚝\nhttps://t.co/c2s0teHUoq",
+          "likes": 39,
+          "views": 21928,
+          "url": "https://x.com/vercel_dev/status/2076783671768752610",
+          "date": "2026-07-13T21:39:46.000Z"
+        },
+        {
+          "handle": "vercel_dev",
+          "name": "Vercel Developers",
+          "avatar": "https://pbs.twimg.com/profile_images/1978602411490205696/oLOuP7a2_400x400.png",
+          "text": "We shipped a 10% improvement in cost-efficiency for Web Analytics and Speed Insights.\n\nPro & Enterprise customers will see the savings reflected in their next bill.\n\nhttps://t.co/8TMwXXNARJ",
+          "likes": 29,
+          "views": 2024,
+          "url": "https://x.com/vercel_dev/status/2076796365909414182",
+          "date": "2026-07-13T22:30:13.000Z"
+        },
+        {
+          "handle": "vercel_dev",
+          "name": "Vercel Developers",
+          "avatar": "https://pbs.twimg.com/profile_images/1978602411490205696/oLOuP7a2_400x400.png",
+          "text": "Agent Runs now shows subagent activity for @evedev_ projects.\n\nInspect each run in full, including turns, model and tool calls, cost, and token usage.\n\nhttps://t.co/sha40IgCrT",
+          "likes": 42,
+          "views": 28600,
+          "url": "https://x.com/vercel_dev/status/2076815883209712038",
+          "date": "2026-07-13T23:47:46.000Z"
+        },
+        {
+          "handle": "rauchg",
+          "name": "Guillermo Rauch",
+          "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_400x400.jpg",
+          "text": "Powerful building block for autonomous, self-optimizing websites and applications.\n\nGive agents the ability to set up and tune experiments with feature flags.",
+          "likes": 130,
+          "views": 20598,
+          "url": "https://x.com/rauchg/status/2076786138195595704",
+          "date": "2026-07-13T21:49:34.000Z"
+        },
+        {
+          "handle": "rauchg",
+          "name": "Guillermo Rauch",
+          "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_400x400.jpg",
+          "text": "The two most popular https://t.co/99eEa13mZ3 features so far have been:\n\n1️⃣ The ease of use / filesystem API\n2️⃣ Observability \n\nWe’re doubling down on both!",
+          "likes": 204,
+          "views": 27630,
+          "url": "https://x.com/rauchg/status/2076817174073880957",
+          "date": "2026-07-13T23:52:54.000Z"
+        },
+        {
+          "handle": "timneutkens",
+          "name": "Tim",
+          "avatar": "https://pbs.twimg.com/profile_images/2066256019659894784/htXLkXuD_400x400.jpg",
+          "text": "TypeScript 7 Support in Next.js\n\nTLDR: \nYou can now enable `experimental.useTypeScriptCli` to use TypeScript 7 on next@preview\n\nDetails:\n\nTypeScript 7 released with ts-go, very excited about the speedup!\n\nThe release is (intentionally) missing the JavaScript API which they're https://t.co/Ly25fB61NN",
+          "likes": 348,
+          "views": 20254,
+          "url": "https://x.com/timneutkens/status/2076771696745345363",
+          "date": "2026-07-13T20:52:11.000Z"
+        }
+      ]
+    },
+    {
+      "id": "agents-get-browser-access",
+      "title": "Coding Agents Are Getting Full Browser Access",
+      "category": "AI Infra",
+      "summary": "Agent-to-browser integration is having a moment: Browserbase's CEO showcased how Julius went from just answering questions to taking real browser actions, while Codex and Claude Code both shipped in-app browsers with multi-tab support and cookie/password import within days of each other.",
+      "participants": 3,
+      "takes": [
+        {
+          "handle": "browserbase",
+          "name": "Browserbase",
+          "avatar": "https://pbs.twimg.com/profile_images/2041293299433226240/q9rWpgHp_400x400.jpg",
+          "text": "Our CEO @pk_iv sat down with @0interestrates to talk about what happens when you give an agent a browser.\n\n@juliusai went from just answering questions to actually taking actions, powered by Browserbase.\n\nTry Browser Agent in Julius for free this week. https://t.co/TTjLVwOOlY",
+          "likes": 23,
+          "views": 4984,
+          "url": "https://x.com/browserbase/status/2076730242090344525",
+          "date": "2026-07-13T18:07:28.000Z"
+        },
+        {
+          "handle": "pk_iv",
+          "name": "Paul Klein IV",
+          "avatar": "https://pbs.twimg.com/profile_images/1851174378635210753/LZHk5rYZ_400x400.jpg",
+          "text": "every great agent needs a browser. \n\nwe’re excited to continue to power great companies building great agents.\n\ncongrats to the Julius team on the big launch!",
+          "likes": 30,
+          "views": 3340,
+          "url": "https://x.com/pk_iv/status/2076731287541527021",
+          "date": "2026-07-13T18:11:37.000Z"
+        },
+        {
+          "handle": "rileybrown",
+          "name": "Riley Brown",
+          "avatar": "https://pbs.twimg.com/profile_images/1898571530956873728/JALEVTSb_400x400.jpg",
+          "text": "Codex just updated their in app browser... You can now open multiple tabs, import cookies and passwords and more. \n\nAnd then 2 days later Claude Code released a similar update...\n\nThis completely shifts the way we use computers...\nHere's everything you need to know.\n\n00:00 Intro https://t.co/5SJx7aAtsC",
+          "likes": 156,
+          "views": 9860,
+          "url": "https://x.com/rileybrown/status/2076862274749235703",
+          "date": "2026-07-14T02:52:07.000Z"
+        }
+      ]
+    },
+    {
+      "id": "opencode-community-push",
+      "title": "Opencode Leans Into Community-Driven Development",
+      "category": "AI Coding",
+      "summary": "The opencode team is routing GitHub issues straight into the agent for reproduction and fixes, building out a Slack bot integration, and doubling down on making the open-source coding agent option genuinely high quality, not just free.",
       "participants": 2,
       "takes": [
         {
-          "handle": "sama",
-          "name": "Sam Altman",
-          "avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_400x400.jpg",
-          "text": "GPT-live (next-generation voice) launches today in ChatGPT.\n\nit feels magical and 'real'.\n\ni have always preferred typing to talking to an AI, now i think that's going to shift.",
-          "likes": 10918,
-          "views": 689776,
-          "url": "https://x.com/sama/status/2074909079450050629",
-          "date": "2026-07-08T17:30:49.000Z"
+          "handle": "thdxr",
+          "name": "dax",
+          "avatar": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_400x400.jpg",
+          "text": "we have an issues channel where every good github issue goes and we can ask opencode to reproduce it and fix\n\neven started throwing posts from here in there https://t.co/r8NqTJYAW9",
+          "likes": 242,
+          "views": 15246,
+          "url": "https://x.com/thdxr/status/2076734201760493709",
+          "date": "2026-07-13T18:23:12.000Z"
         },
         {
-          "handle": "OpenAI",
-          "name": "OpenAI",
-          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
-          "text": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout is in progress. \n\nUpdate to the latest version of the ChatGPT app on iOS or Android to try it out.",
-          "likes": 3890,
-          "views": 929225,
-          "url": "https://x.com/OpenAI/status/2075019750569378007",
-          "date": "2026-07-09T00:50:35.000Z"
+          "handle": "thdxr",
+          "name": "dax",
+          "avatar": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_400x400.jpg",
+          "text": "so this ended up going super well and people had a really fun time with it\n\nwe're gonna drop it publicly tomorrow on the @anomalyco account",
+          "likes": 146,
+          "views": 20584,
+          "url": "https://x.com/thdxr/status/2076735565995606198",
+          "date": "2026-07-13T18:28:37.000Z"
+        },
+        {
+          "handle": "vimtor",
+          "name": "vimtor",
+          "avatar": "https://pbs.twimg.com/profile_images/1889404207490330624/EMd-s40__400x400.jpg",
+          "text": "big awakenings happening with the opencode slack bot https://t.co/HbR7Gkhp9o",
+          "likes": 21,
+          "views": 3406,
+          "url": "https://x.com/vimtor/status/2076735839304855919",
+          "date": "2026-07-13T18:29:42.000Z"
+        },
+        {
+          "handle": "thdxr",
+          "name": "dax",
+          "avatar": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_400x400.jpg",
+          "text": "the opensource option tends to be shittier but you use it because it's free\n\nwe're trying to make the opensource option also the high quality option",
+          "likes": 448,
+          "views": 30087,
+          "url": "https://x.com/thdxr/status/2076759697458086205",
+          "date": "2026-07-13T20:04:30.000Z"
         }
       ]
     },
     {
-      "id": "higgsfield-apps-launch",
-      "title": "Higgsfield Apps Lets Fable 5 Engineer Full Apps Around Its Video Models",
-      "category": "AI Media",
-      "summary": "Higgsfield launched Higgsfield Apps, which pairs its image/video generation models with Fable 5 acting as the engineer to build and ship full aesthetic web apps in one click, backed by a $100,000 build contest.",
+      "id": "miss-hand-coding",
+      "title": "Do You Miss Programming By Hand?",
+      "category": "Hot Takes",
+      "summary": "As AI agents take over more of the actual typing, a few builders are getting wistful about hand-coding, ThePrimeagen mourns losing the fun of the process itself while Rasmic admits he misses it too but isn't turning back.",
+      "participants": 2,
+      "takes": [
+        {
+          "handle": "ThePrimeagen",
+          "name": "ThePrimeagen",
+          "avatar": "https://pbs.twimg.com/profile_images/1924503772094517249/DfKkH0ph_400x400.jpg",
+          "text": "This actually makes me sad.  Programming is such a fun thing to do in of itself.  The completion of the thing task is the ultimate goal, but the road to get there is enjoyable!\n\nEven as i investigate loops and think deeply about how to deploy AI in a real manner that produces",
+          "likes": 1795,
+          "views": 109392,
+          "url": "https://x.com/ThePrimeagen/status/2076729826212184530",
+          "date": "2026-07-13T18:05:49.000Z"
+        },
+        {
+          "handle": "Rasmic",
+          "name": "Micky",
+          "avatar": "https://pbs.twimg.com/profile_images/2025424976375869440/OgySAub0_400x400.jpg",
+          "text": "Listen, i know a lot of dudes that love and miss programming by hand (me)\n\nBut at the end of the day, we tryna make it out of the trenches and gotta get with the times\n\nplus using AI can very very be fun",
+          "likes": 31,
+          "views": 2690,
+          "url": "https://x.com/Rasmic/status/2076823149472014509",
+          "date": "2026-07-14T00:16:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": "t3-code-product-evolution",
+      "title": "Theo's T3 Code Keeps Evolving: New Sidebar, Codex Ultra Deep Dive",
+      "category": "AI Coding",
+      "summary": "Theo is running multiple dev boxes entirely through T3 Code now and thinks his own sidebar UX is starting to feel dated at this level of agent productivity, while also breaking down what Codex's new 'Ultra' mode actually does.",
       "participants": 1,
       "takes": [
         {
-          "handle": "higgsfield",
-          "name": "Higgsfield AI 🧩",
-          "avatar": "https://pbs.twimg.com/profile_images/2029949430317637632/6qPl4MTS_400x400.jpg",
-          "text": "Our biggest release yet. \nIntroducing Higgsfield Apps.\n\n1. Generate apps with any Higgsfield image or video model built in.\n2. Fable 5 engineers every app the way a top engineer would.\n3. Build aesthetic websites of any complexity.\n4. Ship browser extensions, plugins, desktop and https://t.co/2RnfQ3tGK0",
-          "likes": 1578,
-          "views": 301628,
-          "url": "https://x.com/higgsfield/status/2074562885624418772",
-          "date": "2026-07-07T18:35:10.000Z"
+          "handle": "theo",
+          "name": "Theo - t3.gg",
+          "avatar": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_400x400.jpg",
+          "text": "It's still so, so cool that I can control all of my dev boxes through T3 Code. I barely open the desktop app anymore, I just use the site and the app.\n\nWorking on 3 projects with 2 harnesses across 4 dev machines, all from one (open source) interface 🫡 https://t.co/fveG2WyfQ2",
+          "likes": 477,
+          "views": 31938,
+          "url": "https://x.com/theo/status/2076805395562287287",
+          "date": "2026-07-13T23:06:06.000Z"
         },
         {
-          "handle": "higgsfield",
-          "name": "Higgsfield AI 🧩",
-          "avatar": "https://pbs.twimg.com/profile_images/2029949430317637632/6qPl4MTS_400x400.jpg",
-          "text": "The $100,000 Higgsfield App Contest is on.\n\nBuild an app on Claude and deploy it in one click via Higgsfield MCP. 13 winners split the pool, with $25,000 for first place.\n\nSubmit by July 22. Winners announced July 29.\n\nThe time to launch your app is NOW. https://t.co/nsOvwS8cjd",
-          "likes": 534,
-          "views": 54232,
-          "url": "https://x.com/higgsfield/status/2074878806838362265",
-          "date": "2026-07-08T15:30:31.000Z"
+          "handle": "theo",
+          "name": "Theo - t3.gg",
+          "avatar": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_400x400.jpg",
+          "text": "I will admit that the level of productivity possible is making a lot of the UX feel less than ideal. I'm at the point where I think the \"sidebar grouped by projects\" barely makes sense anymore.\n\nGoing to play around with some new concepts to see how we can go even further",
+          "likes": 90,
+          "views": 9723,
+          "url": "https://x.com/theo/status/2076805605667586143",
+          "date": "2026-07-13T23:06:56.000Z"
+        },
+        {
+          "handle": "theo",
+          "name": "Theo - t3.gg",
+          "avatar": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_400x400.jpg",
+          "text": "\"Ultra\" mode is not what you think. I did a deep dive on Codex's newest feature to try and help y'all understand it better. https://t.co/bAqLBDLZVq",
+          "likes": 393,
+          "views": 31614,
+          "url": "https://x.com/theo/status/2076842100931649677",
+          "date": "2026-07-14T01:31:57.000Z"
+        },
+        {
+          "handle": "theo",
+          "name": "Theo - t3.gg",
+          "avatar": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_400x400.jpg",
+          "text": "I want to try a new experimental sidebar for threads in T3 Code. Generated a few options. Which do you like best? https://t.co/UIPXHS6dFt",
+          "likes": 366,
+          "views": 36457,
+          "url": "https://x.com/theo/status/2076826062294823206",
+          "date": "2026-07-14T00:28:13.000Z"
+        }
+      ]
+    },
+    {
+      "id": "spacexai-data-retention-uturn",
+      "title": "SpaceXAI Reverses Course, Deletes All Uploaded User Data",
+      "category": "Big Tech / Policy",
+      "summary": "After defending SpaceX's data retention policy as helpful for debugging, Elon Musk did an abrupt U-turn hours later, announcing all user data ever uploaded to SpaceXAI would be completely deleted as a precaution.",
+      "participants": 1,
+      "takes": [
+        {
+          "handle": "elonmusk",
+          "name": "Elon Musk",
+          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_400x400.jpg",
+          "text": "SpaceX policy regarding data retention.\n\nIt is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected.",
+          "likes": 8314,
+          "views": 1824339,
+          "url": "https://x.com/elonmusk/status/2076737992689914215",
+          "date": "2026-07-13T18:38:16.000Z"
+        },
+        {
+          "handle": "elonmusk",
+          "name": "Elon Musk",
+          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_400x400.jpg",
+          "text": "True. \n\nAs a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain.",
+          "likes": 12656,
+          "views": 2626529,
+          "url": "https://x.com/elonmusk/status/2076739687658496209",
+          "date": "2026-07-13T18:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "stanford-behavior-challenge-robotics",
+      "title": "Fei-Fei Li's Stanford BEHAVIOR Robotics Challenge Returns",
+      "category": "AI Models",
+      "summary": "Fei-Fei Li kicked off a new round of Stanford's BEHAVIOR Challenge, arguing that long-horizon, real-world robotics tasks (planning, manipulation, failure recovery) remain unsolved even as today's models get better at everything else.",
+      "participants": 1,
+      "takes": [
+        {
+          "handle": "drfeifei",
+          "name": "Fei-Fei Li",
+          "avatar": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+          "text": "1/N Long horizon, complex tasks that truly matter in everyday life are not solved problems by today’s robotics, requiring planning, object detection, object manipulation, and failure recovery.\n\nThat's why Stanford's BEHAVIOR Challenge is back for year 2! Last year, the winning https://t.co/4mSPwzKWJM",
+          "likes": 295,
+          "views": 45304,
+          "url": "https://x.com/drfeifei/status/2076729080679186849",
+          "date": "2026-07-13T18:02:51.000Z"
+        }
+      ]
+    },
+    {
+      "id": "kaku-ai-terminal-update",
+      "title": "Kaku Ships a Faster AI-Native Terminal",
+      "category": "AI Coding",
+      "summary": "HiTw93 pushed two new releases of Kaku, a terminal built specifically for AI coding workflows, adding faster startup, jump-to-any-pane in split tabs, and more reliable session restore.",
+      "participants": 1,
+      "takes": [
+        {
+          "handle": "HiTw93",
+          "name": "Tw93",
+          "avatar": "https://pbs.twimg.com/profile_images/1960753219115868169/EOxKSK4w_400x400.jpg",
+          "text": "🎃 Kaku is a fast, out-of-the-box terminal built for AI coding.\n\nTwo new releases: faster startup, prompts, and AI chat, plus jump-to-any-pane in split tabs, cleaner renaming and selection, and more reliable session restore.\nhttps://t.co/cJVSaw22Ux https://t.co/R7P49vuaFp",
+          "likes": 58,
+          "views": 8469,
+          "url": "https://x.com/HiTw93/status/2076811410311635386",
+          "date": "2026-07-13T23:30:00.000Z"
         }
       ]
     }
   ],
   "hotTakes": [
     {
-      "handle": "lochan_twt",
-      "name": "spidey",
-      "avatar": "https://pbs.twimg.com/profile_images/2004224861674283008/DcuzkoCw_400x400.jpg",
-      "text": "\"I'll just learn coding, get a remote job, and work from Bali.\" https://t.co/D63raJznfS",
-      "likes": 143790,
-      "views": 2925894,
-      "url": "https://x.com/lochan_twt/status/2074734857041973370",
-      "date": "2026-07-08T05:58:31.000Z"
-    },
-    {
-      "handle": "ThePrimeagen",
-      "name": "ThePrimeagen",
-      "avatar": "https://pbs.twimg.com/profile_images/1924503772094517249/DfKkH0ph_400x400.jpg",
-      "text": "1 hour of hand programming\n\nngmi https://t.co/WTw7PIGnJg",
-      "likes": 2469,
-      "views": 295725,
-      "url": "https://x.com/ThePrimeagen/status/2074564143441498603",
-      "date": "2026-07-07T18:40:09.000Z"
-    },
-    {
-      "handle": "thdxr",
-      "name": "dax",
-      "avatar": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_400x400.jpg",
-      "text": "someone at @SlackHQ please add a reply feature. i'm begging you\n\njust copy discord DO NOT GET CREATIVE\n\nplease",
-      "likes": 3738,
-      "views": 396628,
-      "url": "https://x.com/thdxr/status/2074956186244247797",
-      "date": "2026-07-08T20:38:00.000Z"
-    },
-    {
       "handle": "shadcn",
       "name": "shadcn",
       "avatar": "https://pbs.twimg.com/profile_images/1593304942210478080/TUYae5z7_400x400.jpg",
-      "text": "I still need a really good code editor. Are we going too fast in the other direction?",
-      "likes": 1773,
-      "views": 241317,
-      "url": "https://x.com/shadcn/status/2075108049119834414",
-      "date": "2026-07-09T06:41:27.000Z"
+      "text": "I like how GPTs talk to me. OpenAI got this right.",
+      "likes": 817,
+      "views": 43216,
+      "url": "https://x.com/shadcn/status/2076732928021676178",
+      "date": "2026-07-13T18:18:08.000Z"
     },
     {
-      "handle": "colinhacks",
-      "name": "colinhacks",
-      "avatar": "https://pbs.twimg.com/profile_images/1580243602684395520/aqyWgB1y_400x400.jpg",
-      "text": "GitHub breaking https://t.co/yEjPT6KPAw is the most unforgivable thing yet https://t.co/gEy5QOtIKm",
-      "likes": 750,
-      "views": 158742,
-      "url": "https://x.com/colinhacks/status/2074629646965231650",
-      "date": "2026-07-07T23:00:27.000Z"
+      "handle": "sama",
+      "name": "Sam Altman",
+      "avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_400x400.jpg",
+      "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
+      "likes": 6165,
+      "views": 1193946,
+      "url": "https://x.com/sama/status/2076824686307271125",
+      "date": "2026-07-14T00:22:45.000Z"
     },
     {
-      "handle": "trashh_dev",
-      "name": "trash",
-      "avatar": "https://pbs.twimg.com/profile_images/1598959528518643713/aWdwBYxv_400x400.jpg",
-      "text": "unreal engine is the react of the gaming industry",
-      "likes": 753,
-      "views": 29595,
-      "url": "https://x.com/trashh_dev/status/2074925487030464953",
-      "date": "2026-07-08T18:36:01.000Z"
+      "handle": "vaxryy",
+      "name": "vaxry",
+      "avatar": "https://pbs.twimg.com/profile_images/1787959548474540032/yjyBDXjI_400x400.jpg",
+      "text": "So, will we get something that is absolutely not private and can be tracked, or will we get something trivially bypassable by spoofing the response?\n\nI'm taking bets!!!!!!",
+      "likes": 124,
+      "views": 3231,
+      "url": "https://x.com/vaxryy/status/2076747060326383938",
+      "date": "2026-07-13T19:14:17.000Z"
     },
     {
-      "handle": "r_marked",
-      "name": "mark",
-      "avatar": "https://pbs.twimg.com/profile_images/1662885221140951041/ChOZM3kK_400x400.jpg",
-      "text": "Hot take, we need no reasoning effort controls, the model should be able to figure out how much to think on its own.",
-      "likes": 1826,
-      "views": 117288,
-      "url": "https://x.com/r_marked/status/2074936372339896333",
-      "date": "2026-07-08T19:19:16.000Z"
+      "handle": "haydendevs",
+      "name": "hayden",
+      "avatar": "https://pbs.twimg.com/profile_images/2005746517219360769/Tr-bJQKJ_400x400.jpg",
+      "text": "loveable and netlify have done irreparable damage to CEOs everywhere",
+      "likes": 38,
+      "views": 1112,
+      "url": "https://x.com/haydendevs/status/2076840878249771049",
+      "date": "2026-07-14T01:27:05.000Z"
     },
     {
-      "handle": "rauchg",
-      "name": "Guillermo Rauch",
-      "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_400x400.jpg",
-      "text": "It’s model release week. I suspect Meta Spark 1.1, Grok 4.5, and GLM 5.2 will significantly displace token market share. \n\nMost agentic tasks require reasonably high intelligence at fast speeds.\n\nIt’s a good time to be using ▲ AI Gateway!",
-      "likes": 361,
-      "views": 33558,
-      "url": "https://x.com/rauchg/status/2075294130327196152",
-      "date": "2026-07-09T19:00:52.000Z"
+      "handle": "ridd_design",
+      "name": "Ridd 🤿",
+      "avatar": "https://pbs.twimg.com/profile_images/2066916620249800704/h-23QV3C_400x400.jpg",
+      "text": "the UX of Hey is truly an abomination\n\nbut man as soon as I try other clients I am 10x more overwhelmed because everything is so organized in Hey that I start to freak out",
+      "likes": 4,
+      "views": 1371,
+      "url": "https://x.com/ridd_design/status/2076748092079026307",
+      "date": "2026-07-13T19:18:23.000Z"
+    },
+    {
+      "handle": "camiinthisthang",
+      "name": "cami",
+      "avatar": "https://pbs.twimg.com/profile_images/2075655667033997312/SEdJ6jkH_400x400.jpg",
+      "text": "Ok after using codex for a couple weeks it’s pretty clear I have to cancel my $200 anthropic subscription\n\nMy new ai stack is now\nCodex - coding & computer use  \nPoncho - lead generation & social media growth hacking\nMidjourney - best image gen imo \nHiggsfield - all in one for my",
+      "likes": 37,
+      "views": 3250,
+      "url": "https://x.com/camiinthisthang/status/2076746043568582819",
+      "date": "2026-07-13T19:10:15.000Z"
+    },
+    {
+      "handle": "mikefutia",
+      "name": "Mike Futia",
+      "avatar": "https://pbs.twimg.com/profile_images/1923873453498646528/wNZGnvlf_400x400.jpg",
+      "text": "I just built a Meta ad policy checker in Claude Code that catches rejections BEFORE Meta does 🤯\n\nDrop in your ad copy → it pulls Meta's LIVE Advertising Standards, checks every line against the actual policy text, and hands each ad a verdict: Cleared for launch, Fix before https://t.co/TVVl6QxTqN",
+      "likes": 37,
+      "views": 4817,
+      "url": "https://x.com/mikefutia/status/2076826576680108166",
+      "date": "2026-07-14T00:30:16.000Z"
     }
   ],
   "people": [
     {
-      "handle": "Abmankendrick",
-      "name": "Abraham John 🦄🦓",
-      "avatar": "https://pbs.twimg.com/profile_images/1983915658829041664/iG7fFe9U_400x400.jpg"
+      "handle": "AlemTuzlak",
+      "name": "Alem Tuzlak 🇧🇦",
+      "avatar": "https://pbs.twimg.com/profile_images/2067911305973878784/CDLxq_ih_400x400.jpg"
     },
     {
-      "handle": "claudeai",
-      "name": "Claude",
-      "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_400x400.jpg"
+      "handle": "browserbase",
+      "name": "Browserbase",
+      "avatar": "https://pbs.twimg.com/profile_images/2041293299433226240/q9rWpgHp_400x400.jpg"
     },
     {
-      "handle": "colinhacks",
-      "name": "colinhacks",
-      "avatar": "https://pbs.twimg.com/profile_images/1580243602684395520/aqyWgB1y_400x400.jpg"
+      "handle": "camiinthisthang",
+      "name": "cami",
+      "avatar": "https://pbs.twimg.com/profile_images/2075655667033997312/SEdJ6jkH_400x400.jpg"
     },
     {
       "handle": "davis7",
@@ -629,19 +569,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2052289378706423808/g5qAyVi6_400x400.jpg"
     },
     {
-      "handle": "delba_oliveira",
-      "name": "Delba",
-      "avatar": "https://pbs.twimg.com/profile_images/2045922548387651584/fzDD934a_400x400.jpg"
-    },
-    {
-      "handle": "dexhorthy",
-      "name": "dex",
-      "avatar": "https://pbs.twimg.com/profile_images/1936650128518938624/tCFV_MZO_400x400.jpg"
-    },
-    {
-      "handle": "dhh",
-      "name": "DHH",
-      "avatar": "https://pbs.twimg.com/profile_images/1746980162607140864/fG9Fj4K__400x400.jpg"
+      "handle": "drfeifei",
+      "name": "Fei-Fei Li",
+      "avatar": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg"
     },
     {
       "handle": "elonmusk",
@@ -654,24 +584,19 @@
       "avatar": "https://pbs.twimg.com/profile_images/1469017066795679751/CjEOyirb_400x400.jpg"
     },
     {
-      "handle": "higgsfield",
-      "name": "Higgsfield AI 🧩",
-      "avatar": "https://pbs.twimg.com/profile_images/2029949430317637632/6qPl4MTS_400x400.jpg"
+      "handle": "haydendevs",
+      "name": "hayden",
+      "avatar": "https://pbs.twimg.com/profile_images/2005746517219360769/Tr-bJQKJ_400x400.jpg"
+    },
+    {
+      "handle": "HiTw93",
+      "name": "Tw93",
+      "avatar": "https://pbs.twimg.com/profile_images/1960753219115868169/EOxKSK4w_400x400.jpg"
     },
     {
       "handle": "jamesperkins",
       "name": "James Perkins",
       "avatar": "https://pbs.twimg.com/profile_images/1854308174817579008/Lon8OO2h_400x400.jpg"
-    },
-    {
-      "handle": "jaredpalmer",
-      "name": "Jared Palmer",
-      "avatar": "https://pbs.twimg.com/profile_images/2046675016805203968/isnDn3_Y_400x400.jpg"
-    },
-    {
-      "handle": "jarredsumner",
-      "name": "Jarred Sumner",
-      "avatar": "https://pbs.twimg.com/profile_images/1342417825483300864/Vz4ChOFG_400x400.jpg"
     },
     {
       "handle": "joelhooks",
@@ -684,9 +609,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1567269493608714241/6ACZo99k_400x400.jpg"
     },
     {
-      "handle": "lochan_twt",
-      "name": "spidey",
-      "avatar": "https://pbs.twimg.com/profile_images/2004224861674283008/DcuzkoCw_400x400.jpg"
+      "handle": "Layton_Gott",
+      "name": "Layton Gott",
+      "avatar": "https://pbs.twimg.com/profile_images/2018425281212538880/9sY4ER7m_400x400.jpg"
     },
     {
       "handle": "mattpocockuk",
@@ -694,24 +619,19 @@
       "avatar": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_400x400.jpg"
     },
     {
-      "handle": "mntruell",
-      "name": "Michael Truell",
-      "avatar": "https://pbs.twimg.com/profile_images/1887065642261737472/QdLiAFfD_400x400.jpg"
+      "handle": "mikefutia",
+      "name": "Mike Futia",
+      "avatar": "https://pbs.twimg.com/profile_images/1923873453498646528/wNZGnvlf_400x400.jpg"
     },
     {
-      "handle": "OpenAI",
-      "name": "OpenAI",
-      "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg"
+      "handle": "mirko_monti6",
+      "name": "Mirko Monti",
+      "avatar": "https://pbs.twimg.com/profile_images/1587064907379490816/zRV2gIXS_400x400.jpg"
     },
     {
-      "handle": "praveenisomer",
-      "name": "Praveen Kumar",
-      "avatar": "https://pbs.twimg.com/profile_images/2054301857447895040/W9VqwjhW_400x400.jpg"
-    },
-    {
-      "handle": "r_marked",
-      "name": "mark",
-      "avatar": "https://pbs.twimg.com/profile_images/1662885221140951041/ChOZM3kK_400x400.jpg"
+      "handle": "pk_iv",
+      "name": "Paul Klein IV",
+      "avatar": "https://pbs.twimg.com/profile_images/1851174378635210753/LZHk5rYZ_400x400.jpg"
     },
     {
       "handle": "Rasmic",
@@ -724,9 +644,14 @@
       "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_400x400.jpg"
     },
     {
-      "handle": "raunofreiberg",
-      "name": "rauno",
-      "avatar": "https://pbs.twimg.com/profile_images/1939625043522146304/3z3zSWLx_400x400.jpg"
+      "handle": "ridd_design",
+      "name": "Ridd 🤿",
+      "avatar": "https://pbs.twimg.com/profile_images/2066916620249800704/h-23QV3C_400x400.jpg"
+    },
+    {
+      "handle": "rileybrown",
+      "name": "Riley Brown",
+      "avatar": "https://pbs.twimg.com/profile_images/1898571530956873728/JALEVTSb_400x400.jpg"
     },
     {
       "handle": "sama",
@@ -737,11 +662,6 @@
       "handle": "shadcn",
       "name": "shadcn",
       "avatar": "https://pbs.twimg.com/profile_images/1593304942210478080/TUYae5z7_400x400.jpg"
-    },
-    {
-      "handle": "steveruizok",
-      "name": "Steve Ruiz",
-      "avatar": "https://pbs.twimg.com/profile_images/1998689716229558272/GSFU7BiZ_400x400.jpg"
     },
     {
       "handle": "thdxr",
@@ -759,29 +679,24 @@
       "avatar": "https://pbs.twimg.com/profile_images/1924503772094517249/DfKkH0ph_400x400.jpg"
     },
     {
-      "handle": "tomjohndesign",
-      "name": "Tom Johnson",
-      "avatar": "https://pbs.twimg.com/profile_images/1920660013020049409/lv018ZJ7_400x400.jpg"
-    },
-    {
-      "handle": "trashh_dev",
-      "name": "trash",
-      "avatar": "https://pbs.twimg.com/profile_images/1598959528518643713/aWdwBYxv_400x400.jpg"
-    },
-    {
-      "handle": "tualatrix",
-      "name": "图拉鼎",
-      "avatar": "https://pbs.twimg.com/profile_images/675270246509350912/lV9-F5ey_400x400.jpg"
-    },
-    {
-      "handle": "typescript",
-      "name": "TypeScript",
-      "avatar": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png"
+      "handle": "timneutkens",
+      "name": "Tim",
+      "avatar": "https://pbs.twimg.com/profile_images/2066256019659894784/htXLkXuD_400x400.jpg"
     },
     {
       "handle": "vaxryy",
       "name": "vaxry",
       "avatar": "https://pbs.twimg.com/profile_images/1787959548474540032/yjyBDXjI_400x400.jpg"
+    },
+    {
+      "handle": "vercel_dev",
+      "name": "Vercel Developers",
+      "avatar": "https://pbs.twimg.com/profile_images/1978602411490205696/oLOuP7a2_400x400.png"
+    },
+    {
+      "handle": "vimtor",
+      "name": "vimtor",
+      "avatar": "https://pbs.twimg.com/profile_images/1889404207490330624/EMd-s40__400x400.jpg"
     }
   ]
 }
